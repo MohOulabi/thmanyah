@@ -142,3 +142,5 @@ Add keys to both `messages/en.json` and `messages/ar.json`.
 
 - **English:** Plus Jakarta Sans
 - **Arabic:** IBM Plex Sans Arabic
+
+> React Query is installed as demonstration only, we can also install devtools + react-query-next-experimental if actually used instead alongside server side rendering solution
