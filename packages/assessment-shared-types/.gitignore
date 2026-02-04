@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# Turbo
+.turbo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Prefer bun; ignore other lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

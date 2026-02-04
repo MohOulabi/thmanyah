@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "site_name": "ثمانية",
+    "default_title": "ثمانية",
+    "title_template": "{title} | ثمانية",
+    "description": "اكتشف واستمع إلى أكثر من 70 مليون بودكاست وحلقة."
+  },
+  "common": {
+    "welcome": "أهلاً وسهلاً",
+    "optional": "اختياري"
+  },
+  "validation": {
+    "errors": {
+      "email_required": "البريد الإلكتروني مطلوب.",
+      "invalid_email_format": "يرجى إدخال بريد إلكتروني صحيح.",
+      "password_required": "كلمة المرور مطلوبة.",
+      "password_min_length": "كلمة المرور يجب أن تكون 8 أحرف على الأقل.",
+      "name_required": "الاسم مطلوب.",
+      "confirm_password_required": "يرجى تأكيد كلمة المرور.",
+      "passwords_must_match": "كلمة المرور غير متطابقة."
+    }
+  },
+  "auth": {
+    "login": {
+      "welcome_back": "مرحباً بعودتك",
+      "title": "تسجيل الدخول إلى ثمانية",
+      "email_label": "البريد الإلكتروني",
+      "email_placeholder": "البريد الإلكتروني",
+      "password_label": "كلمة المرور",
+      "password_placeholder": "كلمة المرور",
+      "submit": "تسجيل الدخول",
+      "or": "أو",
+      "continue_apple": "المتابعة مع Apple",
+      "no_account": "ليس لديك حساب؟ سجّل مجاناً.",
+      "sign_up_link": "إنشاء حساب مجاني."
+    },
+    "signup": {
+      "welcome": "مرحباً",
+      "title": "إنشاء حساب في ثمانية",
+      "name_label": "الاسم",
+      "name_placeholder": "الاسم الأول...",
+      "email_label": "البريد الإلكتروني",
+      "email_placeholder": "البريد الإلكتروني...",
+      "password_label": "كلمة المرور",
+      "password_placeholder": "كلمة المرور... (8 أحرف على الأقل)",
+      "confirm_password_label": "تأكيد كلمة المرور",
+      "confirm_password_placeholder": "تأكيد كلمة المرور...",
+      "submit": "إنشاء حساب",
+      "or": "أو",
+      "continue_apple": "المتابعة مع Apple",
+      "privacy_terms": "اطّلع على سياسة الخصوصية وشروط الاستخدام لثمانية.",
+      "privacy_policy": "سياسة الخصوصية",
+      "terms_of_use": "شروط الاستخدام",
+      "has_account": "لديك حساب بالفعل؟ تسجيل الدخول.",
+      "log_in_link": "تسجيل الدخول"
+    }
+  },
+  "sidebar": {
+    "home": "الرئيسية",
+    "discover": "استكشف",
+    "your_stuff": "محتواك",
+    "my_queue": "قائمتي",
+    "my_podcasts": "بودكاستاتي",
+    "recents": "مؤخراً",
+    "footer_version": "ثمانية v1.0.0",
+    "about_all_podcasts": "عن جميع البودكاستات"
+  },
+  "header": {
+    "search_placeholder": "ابحث في أكثر من 70 مليون بودكاست وحلقة...",
+    "log_in": "تسجيل الدخول",
+    "sign_up": "إنشاء حساب",
+    "menu_aria_label": "القائمة",
+    "settings": "الإعدادات",
+    "about_thamanyah": "عن ثمانية",
+    "whats_new": "ما الجديد",
+    "podcaster_faq": "الأسئلة الشائعة للبودكاستر",
+    "privacy": "الخصوصية",
+    "terms": "الشروط",
+    "privacy_settings": "إعدادات الخصوصية",
+    "contact_and_feedback": "التواصل والملاحظات",
+    "clear_data": "مسح البيانات..."
+  },
+  "search": {
+    "meta_title": "بحث",
+    "empty_title": "اكتشف بودكاستك القادم",
+    "empty_description": "ابحث بين ملايين البودكاستات والحلقات لاكتشاف محتوى جديد.",
+    "empty_cta": "ابدأ البحث",
+    "top_podcasts_for": "أفضل البودكاستات عن {query}",
+    "podcast_menu": {
+      "aria_label": "المزيد من الخيارات",
+      "add_to_my_podcasts": "إضافة إلى بودكاستاتي",
+      "go_to_podcast": "الذهاب إلى البودكاست",
+      "share_podcast": "مشاركة البودكاست",
+      "hide_podcast": "إخفاء البودكاست"
+    }
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "الصفحة غير موجودة",
+    "description": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+    "back_home": "العودة للرئيسية"
+  }
+}

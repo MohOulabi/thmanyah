@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "site_name": "Thamanyah",
+    "default_title": "Thamanyah",
+    "title_template": "{title} | Thamanyah",
+    "description": "Discover and listen to over 70 million podcasts and episodes."
+  },
+  "common": {
+    "welcome": "Welcome",
+    "optional": "optional"
+  },
+  "validation": {
+    "errors": {
+      "email_required": "Email is required.",
+      "invalid_email_format": "Please enter a valid email address.",
+      "password_required": "Password is required.",
+      "password_min_length": "Password must be at least 8 characters.",
+      "name_required": "Name is required.",
+      "confirm_password_required": "Please confirm your password.",
+      "passwords_must_match": "Passwords must match."
+    }
+  },
+  "auth": {
+    "login": {
+      "welcome_back": "WELCOME BACK",
+      "title": "LOG IN TO THAMANYAH",
+      "email_label": "EMAIL",
+      "email_placeholder": "Email address",
+      "password_label": "PASSWORD",
+      "password_placeholder": "Password",
+      "submit": "Log in",
+      "or": "or",
+      "continue_apple": "Continue with Apple",
+      "no_account": "Don't have an account yet? Sign up for a free account.",
+      "sign_up_link": "Sign up for a free account."
+    },
+    "signup": {
+      "welcome": "WELCOME",
+      "title": "SIGN UP FOR THAMANYAH",
+      "name_label": "NAME",
+      "name_placeholder": "Your first name...",
+      "email_label": "EMAIL",
+      "email_placeholder": "Email address...",
+      "password_label": "PASSWORD",
+      "password_placeholder": "Password... (8 characters minimum)",
+      "confirm_password_label": "CONFIRM PASSWORD",
+      "confirm_password_placeholder": "Confirm password...",
+      "submit": "Sign up",
+      "or": "or",
+      "continue_apple": "Continue with Apple",
+      "privacy_terms": "View Thamanyah's Privacy Policy and Terms of Use.",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_use": "Terms of Use",
+      "has_account": "Already have an account? Log in.",
+      "log_in_link": "Log in"
+    }
+  },
+  "sidebar": {
+    "home": "Home",
+    "discover": "Discover",
+    "your_stuff": "YOUR STUFF",
+    "my_queue": "My Queue",
+    "my_podcasts": "My Podcasts",
+    "recents": "Recents",
+    "footer_version": "Thamanyah v1.0.0",
+    "about_all_podcasts": "About All Podcasts"
+  },
+  "header": {
+    "search_placeholder": "Search through over 70 million podcasts and episodes...",
+    "log_in": "Log in",
+    "sign_up": "Sign up",
+    "menu_aria_label": "Menu",
+    "settings": "Settings",
+    "about_thamanyah": "About Thamanyah",
+    "whats_new": "What's New",
+    "podcaster_faq": "Podcaster FAQ",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "privacy_settings": "Privacy Settings",
+    "contact_and_feedback": "Contact & Feedback",
+    "clear_data": "Clear Data..."
+  },
+  "search": {
+    "meta_title": "Search",
+    "empty_title": "Find your next listen",
+    "empty_description": "Search through millions of podcasts and episodes to discover something new.",
+    "empty_cta": "Start searching",
+    "top_podcasts_for": "Top podcasts for {query}",
+    "podcast_menu": {
+      "aria_label": "More options",
+      "add_to_my_podcasts": "Add to My Podcasts",
+      "go_to_podcast": "Go to Podcast",
+      "share_podcast": "Share podcast",
+      "hide_podcast": "Hide podcast"
+    }
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "back_home": "Back to home"
+  }
+}

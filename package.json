@@ -1,0 +1,22 @@
+{
+  "name": "thamanyah",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "assessment-backend",
+    "assessment-client-side"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "dev:client": "turbo run dev --filter=assessment-client-side",
+    "dev:backend": "turbo run dev --filter=assessment-backend",
+    "lint": "turbo run lint",
+    "format": "turbo run format"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.0"
+  },
+  "packageManager": "bun@1.3.2"
+}

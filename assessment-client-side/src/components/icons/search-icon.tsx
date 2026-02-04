@@ -1,0 +1,22 @@
+import { cn } from '@/lib/utils';
+
+type SearchIconProps = React.SVGProps<SVGSVGElement>;
+
+export function SearchIcon({ className, ...props }: SearchIconProps) {
+  return (
+    <svg
+      xmlns='http://www.w3.org/2000/svg'
+      viewBox='0 0 24 24'
+      fill='none'
+      stroke='currentColor'
+      strokeWidth={2}
+      strokeLinecap='round'
+      strokeLinejoin='round'
+      className={cn('size-4 shrink-0', className)}
+      {...props}
+    >
+      <circle cx='11' cy='11' r='8' />
+      <path d='m21 21-4.3-4.3' />
+    </svg>
+  );
+}

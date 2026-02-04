@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+
+# Prefer bun; ignore other lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
